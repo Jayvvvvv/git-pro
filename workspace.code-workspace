@@ -7,5 +7,7 @@
 			"path": "..\\JavaTutorials"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML5"
+	}
 }
